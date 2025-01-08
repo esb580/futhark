@@ -14,10 +14,10 @@ def main():
         print_menu()
         choice = input('Enter your choice: ')
         if choice == '1':
-            data = futhark_lib.get_younger_futhark()
+            data = futhark_lib.get_younger_futhark_json()
             print(json.dumps(data, indent=4))
         elif choice == '2':
-            data = futhark_lib.get_elder_futhark()
+            data = futhark_lib.get_elder_futhark_json()
             print(json.dumps(data, indent=4))
         elif choice == '3':
             df = futhark_lib.get_younger_futhark_df()
