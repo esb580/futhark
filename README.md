@@ -1,5 +1,3 @@
----
-
 # New Python Project Setup
 
 ## Steps to Create a New Python Project
@@ -133,11 +131,7 @@ your-repo-folder/
 └── test_name_lib.py       # Tests for the library
 ```
 
-### Key Improvements:
-1. **Logical Grouping**: Steps are grouped and presented in a logical sequence for better clarity.
-2. **Consistency**: Instructions and filenames are consistent and use a single naming convention.
-3. **Added Testing Framework**: Incorporates testing practices with `pytest` to ensure code quality.
-4. **Clear `.gitignore` Guidelines**: Focus on what should and should not be tracked in Git.
-5. **Actionable Example**: Provides concise examples and better aligns with real-world workflows.
 
-This structure and process streamline project setup, encourage best practices, and prepare your project for collaborative development and deployment.
+
+### Other Setup Items:
+1. ``` ssh-add ~/.ssh/id_rsa_github ```
