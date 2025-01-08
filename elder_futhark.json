@@ -1,0 +1,194 @@
+[
+    {
+        "Rune": "ᚠ",
+        "Unicode": "U+16A0",
+        "Name": "Fehu / Fay-hoo",
+        "Pronunciation": "f",
+        "Magical Meaning": "Fertility, abundance, livestock",
+        "Other Associations": "Cattle, wealth, prosperity, possessions"
+    },
+    {
+        "Rune": "ᚢ",
+        "Unicode": "U+16A2",
+        "Name": "Uruz / Oo-rooz",
+        "Pronunciation": "u",
+        "Magical Meaning": "Growth, vitality, inspiration",
+        "Other Associations": "Strength, power, primal energy, the aurochs (an extinct type of large wild ox)"
+    },
+    {
+        "Rune": "ᚦ",
+        "Unicode": "U+16A6",
+        "Name": "Thurisaz / Thoor-ee-sahz",
+        "Pronunciation": "th (as in \"thin\")",
+        "Magical Meaning": "Protection, defense, boundaries",
+        "Other Associations": "Thorns, giants, obstacles, overcoming challenges"
+    },
+    {
+        "Rune": "ᚣ",
+        "Unicode": "U+16A3",
+        "Name": "Ansuz / Ahn-soos",
+        "Pronunciation": "a",
+        "Magical Meaning": "Power, action, will",
+        "Other Associations": "Odin, communication, wisdom, inspiration, poetry"
+    },
+    {
+        "Rune": "ᚱ",
+        "Unicode": "U+16B1",
+        "Name": "Raido / Ray-doh",
+        "Pronunciation": "r",
+        "Magical Meaning": "Journey, movement, communication",
+        "Other Associations": "Travel, guidance, direction, rhythm"
+    },
+    {
+        "Rune": "ᚲ",
+        "Unicode": "U+16B2",
+        "Name": "Kaunan / Cow-nan",
+        "Pronunciation": "k",
+        "Magical Meaning": "Change, transformation, breaking down",
+        "Other Associations": "Wounds, breaking through, overcoming obstacles, transformation"
+    },
+    {
+        "Rune": "ᚷ",
+        "Unicode": "U+16B3",
+        "Name": "Gebo / Gay-boh",
+        "Pronunciation": "g",
+        "Magical Meaning": "Giving, receiving, balance",
+        "Other Associations": "Partnership, gifts, reciprocity, balance, harmony"
+    },
+    {
+        "Rune": "ᚹ",
+        "Unicode": "U+16B4",
+        "Name": "Wunjo / Wuhn-yoh",
+        "Pronunciation": "w",
+        "Magical Meaning": "Wisdom, intuition, harmony",
+        "Other Associations": "Joy, pleasure, happiness, contentment, success"
+    },
+    {
+        "Rune": "ᚺ",
+        "Unicode": "U+16B5",
+        "Name": "Hagalaz / Hah-glaz",
+        "Pronunciation": "h",
+        "Magical Meaning": "Healing, restoration, wholeness",
+        "Other Associations": "Hail, storms, sudden changes, overcoming obstacles"
+    },
+    {
+        "Rune": "ᚾ",
+        "Unicode": "U+16BE",
+        "Name": "Naudiz / Now-deez",
+        "Pronunciation": "n",
+        "Magical Meaning": "Need, necessity, inner strength",
+        "Other Associations": "Need, hardship, overcoming challenges, inner strength, perseverance"
+    },
+    {
+        "Rune": "ᛁ",
+        "Unicode": "U+16C1",
+        "Name": "Isa / Ee-sah",
+        "Pronunciation": "i",
+        "Magical Meaning": "Ice, stillness, introspection",
+        "Other Associations": "Ice, stillness, introspection, pausing, waiting, patience"
+    },
+    {
+        "Rune": "ᛀ",
+        "Unicode": "U+16C0",
+        "Name": "Jera / Yay-rah",
+        "Pronunciation": "j",
+        "Magical Meaning": "Joy, celebration, abundance",
+        "Other Associations": "Harvest, cycles, completion, renewal, reaping rewards"
+    },
+    {
+        "Rune": "ᛃ",
+        "Unicode": "U+16C2",
+        "Name": "Eihwaz / Ay-hwaaz",
+        "Pronunciation": "æ (as in \"hair\")",
+        "Magical Meaning": "Wealth, prosperity, abundance",
+        "Other Associations": "Yew tree, protection, endurance, resilience"
+    },
+    {
+        "Rune": "ᛄ",
+        "Unicode": "U+16C3",
+        "Name": "Perthro / Per-throh",
+        "Pronunciation": "o",
+        "Magical Meaning": "Odin, wisdom, prophecy",
+        "Other Associations": "Mystery, hidden knowledge, fate, the unknown"
+    },
+    {
+        "Rune": "ᛅ",
+        "Unicode": "U+16C4",
+        "Name": "Algiz / Ahl-geez",
+        "Pronunciation": "d",
+        "Magical Meaning": "Death, transformation, endings",
+        "Other Associations": "Protection, defense, the elk, spiritual guidance"
+    },
+    {
+        "Rune": "ᛆ",
+        "Unicode": "U+16C5",
+        "Name": "Sowulo / So-woo-loh",
+        "Pronunciation": "t",
+        "Magical Meaning": "Truth, justice, order",
+        "Other Associations": "Sun, self, individuality, personal power, strength"
+    },
+    {
+        "Rune": "ᛇ",
+        "Unicode": "U+16C6",
+        "Name": "Tiwaz / Tee-waz",
+        "Pronunciation": "z",
+        "Magical Meaning": "War, justice, courage",
+        "Other Associations": "The god Tyr, law, justice, victory"
+    },
+    {
+        "Rune": "ᛈ",
+        "Unicode": "U+16C7",
+        "Name": "Berkana / Ber-kah-nah",
+        "Pronunciation": "b",
+        "Magical Meaning": "Birth, growth, new beginnings",
+        "Other Associations": "Birch tree, fertility, femininity, motherhood, healing"
+    },
+    {
+        "Rune": "ᛉ",
+        "Unicode": "U+16C8",
+        "Name": "Ehwaz / Eh-wahz",
+        "Pronunciation": "e",
+        "Magical Meaning": "Horse, travel, partnership",
+        "Other Associations": "Movement, progress, teamwork, cooperation"
+    },
+    {
+        "Rune": "ᛊ",
+        "Unicode": "U+16C9",
+        "Name": "Mannaz / Man-nahz",
+        "Pronunciation": "m",
+        "Magical Meaning": "Man, humanity, community",
+        "Other Associations": "Individuality, community, social interaction"
+    },
+    {
+        "Rune": "ᛋ",
+        "Unicode": "U+16CA",
+        "Name": "Laguz / Lah-gooz",
+        "Pronunciation": "l",
+        "Magical Meaning": "Water, intuition, emotions",
+        "Other Associations": "The unconscious, intuition, emotions, fluidity"
+    },
+    {
+        "Rune": "ᛌ",
+        "Unicode": "U+16CB",
+        "Name": "Ingwaz / Ing-wahz",
+        "Pronunciation": "ng",
+        "Magical Meaning": "Ing, fertility, growth, potential",
+        "Other Associations": "Ing, fertility, growth, potential, the harvest"
+    },
+    {
+        "Rune": "ᛍ",
+        "Unicode": "U+16CC",
+        "Name": "Dagaz / Dah-gahz",
+        "Pronunciation": "d",
+        "Magical Meaning": "Day, awakening, transformation",
+        "Other Associations": "Day, light, awakening, breakthrough, transformation, clarity"
+    },
+    {
+        "Rune": "ᛏ",
+        "Unicode": "U+16CF",
+        "Name": "Othala / Oh-thah-lah",
+        "Pronunciation": "o",
+        "Magical Meaning": "Heritage, inheritance, home",
+        "Other Associations": "Ancestry, legacy, family, property, homeland"
+    }
+]

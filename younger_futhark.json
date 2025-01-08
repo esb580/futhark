@@ -1,0 +1,186 @@
+[
+    {
+        "Rune": "ᚠ",
+        "Unicode": "U+16A0",
+        "Name": "Fehu",
+        "Pronunciation": "f",
+        "Magical Meaning": "Wealth, prosperity, cattle",
+        "Other Associations": "Fertility, possessions, material wealth"
+    },
+    {
+        "Rune": "ᚢ",
+        "Unicode": "U+16A2",
+        "Name": "Uruz",
+        "Pronunciation": "u",
+        "Magical Meaning": "Strength, vitality, power",
+        "Other Associations": "Aurochs, primal energy, health"
+    },
+    {
+        "Rune": "ᚦ",
+        "Unicode": "U+16A6",
+        "Name": "Thurisaz",
+        "Pronunciation": "th (as in 'thin')",
+        "Magical Meaning": "Protection, defense, danger",
+        "Other Associations": "Giants, thorns, boundaries, obstacles"
+    },
+    {
+        "Rune": "ᚬ",
+        "Unicode": "U+16AC",
+        "Name": "Ansuz",
+        "Pronunciation": "a",
+        "Magical Meaning": "Wisdom, communication, knowledge",
+        "Other Associations": "Odin, divine inspiration, language"
+    },
+    {
+        "Rune": "ᚱ",
+        "Unicode": "U+16B1",
+        "Name": "Raido",
+        "Pronunciation": "r",
+        "Magical Meaning": "Journey, movement, travel",
+        "Other Associations": "Direction, rhythm, life path"
+    },
+    {
+        "Rune": "ᚴ",
+        "Unicode": "U+16B4",
+        "Name": "Kaun",
+        "Pronunciation": "k",
+        "Magical Meaning": "Poison, disease, transformation",
+        "Other Associations": "Pain, injury, healing, burning"
+    },
+    {
+        "Rune": "ᚷ",
+        "Unicode": "U+16B7",
+        "Name": "Gebo",
+        "Pronunciation": "g",
+        "Magical Meaning": "Gift, partnership, exchange",
+        "Other Associations": "Balance, reciprocity, union"
+    },
+    {
+        "Rune": "ᚹ",
+        "Unicode": "U+16B9",
+        "Name": "Wunjo",
+        "Pronunciation": "v",
+        "Magical Meaning": "Joy, happiness, harmony",
+        "Other Associations": "Success, pleasure, fulfillment"
+    },
+    {
+        "Rune": "ᛁ",
+        "Unicode": "U+16C1",
+        "Name": "Hagalaz",
+        "Pronunciation": "h",
+        "Magical Meaning": "Disruption, change, destruction",
+        "Other Associations": "Hail, storms, forces of nature"
+    },
+    {
+        "Rune": "ᛅ",
+        "Unicode": "U+16C4",
+        "Name": "Naudiz",
+        "Pronunciation": "n",
+        "Magical Meaning": "Need, necessity, hardship",
+        "Other Associations": "Struggle, endurance, inner strength"
+    },
+    {
+        "Rune": "ᛋ",
+        "Unicode": "U+16CA",
+        "Name": "Isa",
+        "Pronunciation": "i",
+        "Magical Meaning": "Ice, stillness, introspection",
+        "Other Associations": "Pause, patience, standstill"
+    },
+    {
+        "Rune": "ᛏ",
+        "Unicode": "U+16CF",
+        "Name": "Jera",
+        "Pronunciation": "j",
+        "Magical Meaning": "Harvest, reward, fruition",
+        "Other Associations": "Cycles, time, seasonal change"
+    },
+    {
+        "Rune": "ᛒ",
+        "Unicode": "U+16D2",
+        "Name": "Eiwaz",
+        "Pronunciation": "æ (as in 'hair')",
+        "Magical Meaning": "Transformation, endurance, protection",
+        "Other Associations": "Yew tree, resilience, continuity"
+    },
+    {
+        "Rune": "ᛘ",
+        "Unicode": "U+16D8",
+        "Name": "Perthro",
+        "Pronunciation": "p",
+        "Magical Meaning": "Mystery, fate, destiny",
+        "Other Associations": "The unknown, divination, luck"
+    },
+    {
+        "Rune": "ᛚ",
+        "Unicode": "U+16DA",
+        "Name": "Algiz",
+        "Pronunciation": "l",
+        "Magical Meaning": "Protection, defense, guidance",
+        "Other Associations": "The elk, spiritual protection"
+    },
+    {
+        "Rune": "ᛦ",
+        "Unicode": "U+16E6",
+        "Name": "Sowilo",
+        "Pronunciation": "s",
+        "Magical Meaning": "Sun, success, vitality",
+        "Other Associations": "Self, power, light, clarity"
+    },
+    {
+        "Rune": "ᛧ",
+        "Unicode": "U+16E7",
+        "Name": "Tiwaz",
+        "Pronunciation": "t",
+        "Magical Meaning": "Justice, leadership, honor",
+        "Other Associations": "The god Tyr, victory, law"
+    },
+    {
+        "Rune": "ᛨ",
+        "Unicode": "U+16E8",
+        "Name": "Berkano",
+        "Pronunciation": "b",
+        "Magical Meaning": "Birth, growth, renewal",
+        "Other Associations": "Fertility, femininity, healing"
+    },
+    {
+        "Rune": "ᛩ",
+        "Unicode": "U+16E9",
+        "Name": "Ehwaz",
+        "Pronunciation": "e",
+        "Magical Meaning": "Movement, partnership, travel",
+        "Other Associations": "Horse, cooperation, progress"
+    },
+    {
+        "Rune": "ᛪ",
+        "Unicode": "U+16EA",
+        "Name": "Mannaz",
+        "Pronunciation": "m",
+        "Magical Meaning": "Man, humanity, society",
+        "Other Associations": "Community, cooperation, individuality"
+    },
+    {
+        "Rune": "᛫",
+        "Unicode": "U+16EB",
+        "Name": "Laguz",
+        "Pronunciation": "l",
+        "Magical Meaning": "Water, intuition, emotions",
+        "Other Associations": "Flow, unconscious mind, fluidity"
+    },
+    {
+        "Rune": "᛬",
+        "Unicode": "U+16EC",
+        "Name": "Ingwaz",
+        "Pronunciation": "ng",
+        "Magical Meaning": "Fertility, peace, potential",
+        "Other Associations": "The earth, growth, completion"
+    },
+    {
+        "Rune": "᛭",
+        "Unicode": "U+16ED",
+        "Name": "Dagaz",
+        "Pronunciation": "d",
+        "Magical Meaning": "Day, awakening, clarity",
+        "Other Associations": "Light, breakthrough, hope"
+    }
+]
