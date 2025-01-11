@@ -20,11 +20,11 @@
 3. **Set Up a Virtual Environment**
    - Open the terminal and create a virtual environment:
      ```sh
-     python3 -m venv .env
+     python3 -m venv .venv
      ```
-   - Add the `.env/` directory to `.gitignore` to avoid committing it:
+   - Add the `.venv/` directory to `.gitignore` to avoid committing it:
      ```ignore
-     .env/
+     .venv/
      ```
 
 4. **Activate the Virtual Environment**
@@ -61,7 +61,8 @@
      .DS_Store
      *.db
      *.log
-     .env/
+     .env
+     .venv/
      __pycache__/
      .vscode/
      *.jpg
